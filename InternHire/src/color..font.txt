@@ -1,0 +1,10 @@
+INTERN HIRE COLOUR PALLATE
+
+top navbar         [49,87,94]       #31575e
+buttons             244, 139, 1     #f48b01 
+sub nav             [70,124,134]    #467c86
+background       [202,223,227]      #cadfe3
+other spaces      [255,255,255]     #ffffff
+
+
+Font                   Verdana
